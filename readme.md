@@ -9,7 +9,7 @@ Recipes and code are pretty much the same thing, right? So the license is MIT:
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Afshin Darian
+Copyright (c) 2014-2015 Afshin Darian
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
